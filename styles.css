@@ -1,0 +1,147 @@
+body {
+    color: #fecea8;
+    background:  #221e1c;
+    margin-top: 6px;
+    padding: 20px;
+    
+    font-family: "Roboto Slab", sans-serif;
+    margin-bottom: 100px
+}
+
+header {
+
+     border-bottom: solid #e1e4e6;
+     padding: 20px;
+     font-size: 30px;
+     color: #e1e4e6;
+
+}
+
+ .chamada {
+
+background: #611313;
+ padding-bottom: 10px;
+ padding-top: 10px;
+ display: flex;
+ justify-content: center;
+
+
+}
+
+ .text1{
+
+ margin-right: 5%;
+
+ }
+
+
+
+h1 {
+ font-size: 40px;
+}
+
+p {
+ font-size: 20px;
+}
+
+img {
+height:200px
+
+}
+
+.categoryvid,.categoryvid-1, .categoryvid-2 {
+ display:flex;
+ overflow-x:auto;
+ gap: 10px;
+
+}
+
+
+.category {
+ padding-left: 20px;
+padding-right: 20px;
+margin-top: 50px;
+
+}
+
+.categoryvid img {
+    opacity: 0.5;
+    height: 200px
+
+}
+
+.categoryvid img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(255, 255, 255);
+
+}
+.category {
+    color: #fecea8
+
+}
+
+------
+
+.categoryvid-1 {
+ display: flex ;
+ overflow-x:auto;
+ gap: 10px;
+
+}
+
+
+.category-1 {
+ padding-left: 20px;
+padding-right: 20px;
+margin-top: 50px;
+
+}
+
+.categoryvid-1 img {
+    opacity: 0.5;
+    height: 200px;
+
+}
+
+.categoryvid-1 img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(255, 255, 255);
+
+}
+.category-1 {
+    color: #fecea8;
+
+}
+
+----------
+
+.categoryvid-2 {
+    display: flex ;
+    overflow-x:auto;
+    gap: 10px;
+   
+   }
+   
+   
+   .category-2 {
+    padding-left: 20px;
+   padding-right: 20px;
+   margin-top: 50px;
+   
+   }
+   
+   .categoryvid-2 img {
+       opacity: 0.5;
+       height: 200px;
+   
+   }
+   
+   .categoryvid-2 img:hover {
+       opacity: 1.0;
+       border: 3px solid rgb(255, 255, 255);
+   
+   }
+   .category-2 {
+       color: #fecea8;
+   
+   }
